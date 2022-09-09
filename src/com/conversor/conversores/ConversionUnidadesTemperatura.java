@@ -1,6 +1,6 @@
-package com.conversor.aplicaciones;
+package com.conversor.conversores;
 
-public class ConversorUnidadesTemperatura {
+public class ConversionUnidadesTemperatura {
 
 	public double RetornaValorConvertido(String cadena, double valor) {
 		double Retorno = 0.0;

@@ -1,4 +1,4 @@
-package com.conversor.aplicaciones;
+package com.conversor.conversores;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
@@ -41,7 +41,7 @@ public class ValidarYConvertir {
 	
 	
 	public void conversorTemperatura(String cadena) {
-		ConversorUnidadesTemperatura conversor = new ConversorUnidadesTemperatura();
+		ConversionUnidadesTemperatura conversor = new ConversionUnidadesTemperatura();
 		String campo = JOptionPane.showInputDialog("Ingrese la cantidad a convertir");		
 		if (!(campo == null)) {
 			cantidadAConvertir = Double.parseDouble(ValidarCampo(campo));			

@@ -1,9 +1,9 @@
-package com.conversor.aplicaciones;
+package com.conversor.conversores;
 
 import java.io.IOException;
 import org.json.JSONObject;
 
-import com.conversor.aplicaciones.getDataApi.DataConverter;
+import com.conversor.conversores.getDataApi.DataConverter;
 
 public class ConversionMoneda implements AutoCloseable {
 
