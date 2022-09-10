@@ -4,12 +4,20 @@ import javax.swing.*;
 
 import com.conversor.conversores.ValidarYConvertir;
 
+/**
+ * @version 1.0  
+ * @author Cesar
+**/
+
 public class SelectorMonedas extends ValidarYConvertir implements InterfazSelectores {
 
 	String[] conversiones = { "De pesos a dolar", "De pesos a euro", "De pesos a Libras", "De pesos a yen",
 			"De pesos a Won coreano", "De dolar a pesos", "De Euro a pesos", "De libras a pesos",
 			"De won coreano a pesos" };
-
+	/**
+	 * Metodo sobreescrito de la interfaz Selectores OpcionesConversor en éste caso seleccionamos las monedas,
+	 * la inicial y a la que queremos convertir .
+	**/
 	@Override
 	public void OpcionesConversor(){
 		Icon icono = new ImageIcon("imagenes/cambioM.png");

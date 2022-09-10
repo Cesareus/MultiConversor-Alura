@@ -4,7 +4,11 @@ import java.io.*;
 import okhttp3.*;
 import org.json.JSONObject;
 
-
+/**
+ * @version 1.0  
+ * @author Cesar
+ * Metodo de conexión con el api que le retorna el Object JSON a retornarValores().
+ * */
 
 public class DataConverter {
         

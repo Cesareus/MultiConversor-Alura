@@ -4,11 +4,19 @@ import javax.swing.*;
 
 import com.conversor.conversores.ValidarYConvertir;
 
+/**
+ * @version 1.0  
+ * @author Cesar
+**/
+
 public class SelectorUnidadesTemperatura extends ValidarYConvertir implements InterfazSelectores {
 
 	private String[] conversiones = { "De celcius a fahrenheit", "De celcius a kelvin", "De fahrenheit a celcius",
 			"De fahrenheit a kelvin", "De kelvin a celcius", "De kelvin a fahrenheit" };
-
+/**
+ * Metodo sobreescrito de la interfaz Selectores OpcionesConversor en éste caso seleccionamos las unidades 
+ * de Temperatura, la inicial y a la que queremos convertir .
+**/
 	@Override
 	public void OpcionesConversor() {
 		Icon icono = new ImageIcon("imagenes/cambioT.png");

@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.conversor.conversores"},{"l":"com.conversor.conversores.getDataApi"},{"l":"com.conversor.principal"},{"l":"com.conversor.selectores"}];updateSearchResults();

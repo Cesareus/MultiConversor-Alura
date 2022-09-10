@@ -5,6 +5,12 @@ import javax.swing.*;
 import com.conversor.selectores.SelectorMonedas;
 import com.conversor.selectores.SelectorUnidadesTemperatura;
 
+/**
+ * @version 1.0  
+ * @author Cesar
+ * Metodo main en el que se pueden seleccionar los 2 tipos de conversores, monedas y unidades de temperatura.
+**/
+
 public class Principal {
 
 	public static void main(String[] args) {

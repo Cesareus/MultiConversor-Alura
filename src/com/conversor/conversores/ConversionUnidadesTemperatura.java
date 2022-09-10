@@ -1,6 +1,16 @@
 package com.conversor.conversores;
 
+/**
+ * @version 1.0  
+ * @author Cesar
+**/
+
 public class ConversionUnidadesTemperatura {
+	
+	/**
+	* Metodo que Conversor de unidades de Temperatura, recive 2 parametros el valor a convertir y el string para 
+	* definir cuales son las unidades a convertir.
+	**/	
 
 	public double RetornaValorConvertido(String cadena, double valor) {
 		double Retorno = 0.0;

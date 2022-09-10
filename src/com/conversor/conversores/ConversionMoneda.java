@@ -5,10 +5,21 @@ import org.json.JSONObject;
 
 import com.conversor.conversores.getDataApi.DataConverter;
 
+/**
+ * @version 1.0  
+ * @author Cesar
+ */
+
 public class ConversionMoneda implements AutoCloseable {
 
 	DataConverter data = new DataConverter();
 
+	
+/**
+* Metodo que recibe 3 parametros, la cantidad y los tipos de monedas a convertir y llama a la api a travez de una 
+* excepcion CHECKED (IOException) que baja valores de conversion en tiempo real, con los parametros de monedas y 
+* cantidad  y retorna un objeto JSON;
+*/
 	public Object retornarValores(String valor, String Monedaorigen, String Monedacambio)
 			throws IOException {
 
