@@ -34,6 +34,6 @@ Este se encuentra ubicada dentro del directorio JAR y se llama Multiconversor-Al
 
 ## previews
 
-![](https://img.youtube.com/vi/3RFAX3CbSGA/0.jpg)](https://www.youtube.com/watch?v=PlKCRtPkW7c)
-![](https://img.youtube.com/vi/3RFAX3CbSGA/0.jpg)](https://www.youtube.com/watch?v=hHt-tktRbP8)
+![](https://ibb.co/PrZrBLq)](https://www.youtube.com/watch?v=PlKCRtPkW7c)
+![](https://ibb.co/pWFsSd3)](https://www.youtube.com/watch?v=hHt-tktRbP8)
 
