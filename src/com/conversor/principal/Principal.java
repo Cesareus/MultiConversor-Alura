@@ -7,7 +7,7 @@ import com.conversor.selectores.SelectorUnidadesTemperatura;
 
 /**
  * @version 1.0  
- * @author Cesar
+ * @author Cesar Rosa
  * Metodo main en el que se pueden seleccionar los 2 tipos de conversores, monedas y unidades de temperatura.
 **/
 

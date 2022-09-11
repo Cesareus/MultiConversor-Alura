@@ -7,7 +7,7 @@ import com.conversor.conversores.getDataApi.DataConverter;
 
 /**
  * @version 1.0  
- * @author Cesar
+ * @author Cesar Rosa
  */
 
 public class ConversionMoneda implements AutoCloseable {

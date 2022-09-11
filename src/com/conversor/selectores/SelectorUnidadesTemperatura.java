@@ -1,12 +1,11 @@
 package com.conversor.selectores;
 
 import javax.swing.*;
-
 import com.conversor.conversores.ValidarYConvertir;
 
 /**
  * @version 1.0  
- * @author Cesar
+ * @author Cesar Rosa
 **/
 
 public class SelectorUnidadesTemperatura extends ValidarYConvertir implements InterfazSelectores {

@@ -6,7 +6,7 @@ import org.json.JSONObject;
 
 /**
  * @version 1.0  
- * @author Cesar
+ * @author Cesar Rosa
  * Metodo de conexión con el api que le retorna el Object JSON a retornarValores().
  * */
 

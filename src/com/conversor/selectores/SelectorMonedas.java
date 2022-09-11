@@ -6,7 +6,7 @@ import com.conversor.conversores.ValidarYConvertir;
 
 /**
  * @version 1.0  
- * @author Cesar
+ * @author Cesar Rosa
 **/
 
 public class SelectorMonedas extends ValidarYConvertir implements InterfazSelectores {
